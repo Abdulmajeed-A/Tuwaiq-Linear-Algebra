@@ -1,8 +1,7 @@
 # Tuwaiq-Linear-Algebra
 Unit 2 Project: Linear algebra / Group 5 / Eigenvalues &amp; Eigenvectors in AI
-Eigenvalues & Eigenvectors in AI
 
- Spotify Data Analysis
+Spotify Data Analysis
 Project Overview:
 This project demonstrates how eigenvalues and eigenvectors are applied in AI and data analysis, using Spotify song features as a practical example.
 
